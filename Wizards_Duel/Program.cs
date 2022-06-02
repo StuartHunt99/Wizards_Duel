@@ -8,7 +8,7 @@ namespace Wizards_Duel
         {
             Wizard wizard = new Wizard();
 
-            wizard.CastSpell(1, 11);
+            wizard.CastSpell(0, 11);
 
         }
     }
